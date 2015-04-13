@@ -12,17 +12,17 @@ Cf  Trae embebido [Twitter bootstrap 3.3] (http://getbootstrap.com/). Esta const
 buscamos una fácil instalación un código claro y limpio en español, basado en el modelo MVC bajo el paradigma orientado a objetos.
 
 
-[![Latest Stable Version](https://poser.pugx.org/webcol/calima/v/stable.svg)](https://packagist.org/packages/webcol/calima) 
-[![Total Downloads](https://poser.pugx.org/webcol/calima/downloads.svg)](https://packagist.org/packages/webcol/calima) 
-[![Latest Unstable Version](https://poser.pugx.org/webcol/calima/v/unstable.svg)](https://packagist.org/packages/webcol/calima) 
-[![License](https://poser.pugx.org/webcol/calima/license.svg)](https://packagist.org/packages/webcol/calima)
+[![Latest Stable Version](https://poser.pugx.org/webcol/calimalite/v/stable.svg)](https://packagist.org/packages/webcol/calima) 
+[![Total Downloads](https://poser.pugx.org/webcol/calimalite/downloads.svg)](https://packagist.org/packages/webcol/calima) 
+[![Latest Unstable Version](https://poser.pugx.org/webcol/calimalite/v/unstable.svg)](https://packagist.org/packages/webcol/calima) 
+[![License](https://poser.pugx.org/webcol/calimalite/license.svg)](https://packagist.org/packages/webcol/calima)
 
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/webcol/Calimalite/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/webcol/Calima/?branch=master)
 [![Code Coverage](https://scrutinizer-ci.com/g/webcol/Calimalite/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/webcol/Calima/?branch=master)
 [![Build Status](https://scrutinizer-ci.com/g/webcol/Calimalite/badges/build.png?b=master)](https://scrutinizer-ci.com/g/webcol/Calima/build-status/master)
 
-[![Code Climate](https://codeclimate.com/github/webcol/Calima/badges/gpa.svg)](https://codeclimate.com/github/webcol/Calima)
-[![Test Coverage](https://codeclimate.com/github/webcol/Calima/badges/coverage.svg)](https://codeclimate.com/github/webcol/Calima)
+[![Code Climate](https://codeclimate.com/github/webcol/Calimalite/badges/gpa.svg)](https://codeclimate.com/github/webcol/Calima)
+[![Test Coverage](https://codeclimate.com/github/webcol/Calimalite/badges/coverage.svg)](https://codeclimate.com/github/webcol/Calima)
 
 ESTRUCTURA DE DIRECTORIOS
 ------------------
