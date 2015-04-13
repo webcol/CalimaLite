@@ -1,0 +1,53 @@
+{
+	"name": "webcol/calimaLite",
+	"description": "Framework PHP en español",
+	"type": "project",
+	"keywords": ["framework", "Php", "MVC", "oop", "Framework php hispano"],
+	"homepage": "http://calimaframework.com",
+	"license": "MIT",
+	"authors": [
+            
+                {
+                        "name": "Efrain Restrepo",
+                        "email": "efrasoft@outlook.com",
+                        "homepage": "http://calimaframework.com/autores",
+                        "role": "Pionero"
+                },
+		{
+			"name": "Calimaframework Comunidad",
+			"homepage": "https://github.com/webcol/calima/graphs/contributors"
+		}
+	],
+	"support": {
+		"email": "info@calimaframework.com",
+		"issues": "https://github.com/webcol/Calima/issues",
+		"blog": "http://calimaframework.com/blog",
+		"source": "https://github.com/webcol/Calima"
+	},
+	
+	"bin": [
+		"sistema/nucleo/Cf_Bootstrap.php"
+	],
+	"require": {
+		"php": ">=5.3.0",
+                "phpmailer/phpmailer": "5.*",
+                "itbz/fpdf": "1.*",
+                "doctrine/orm": "2.6.*@dev",
+                "phpoffice/phpexcel": "1.8.*",                
+                "smottt/wideimage": "dev-master"
+                
+	},
+         
+        
+	"autoload": {
+		"classmap" : [
+			"sistema/ayudantes/",
+			"sistema/librerias/",
+			"sistema/nucleo/"
+		],
+                 "psr-4": {
+                    "nucleo\\": "sistemas/nucleo/"
+                }
+	}
+        
+}
