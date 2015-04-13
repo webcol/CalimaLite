@@ -1,4 +1,4 @@
-Calima Framework  PHP Beta Vs 1.0
+Calima Framework Lite  PHP Beta Vs 1.0
 ===========================
 
 <img src="http://www.calimaframework.com/public_/images/ascii_Cf.PNG"/>
