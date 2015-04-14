@@ -7,6 +7,10 @@ Calima Framework Lite  PHP Beta Vs 1.0
 Calima Framework agradece a la comunidad que de alguna manera desea dar apoyo a este proyecto.
 Si tienes deseos de ayudar en este proyecto recuerda que tu ayuda debe ser para esta version de Cf en español
 
+OpenSource
+-----------------
+Este es un proyecto opensource, así que sientete libre de hacer un fork del proyecto para ayudarnos a mejorar Cf. Todo el código fuente está escrito en php POO MVC, tratamos dia a dia que el codigo sea lo mas claro y sencillo y asi tus realizar tus aportes.
+
 
 Cf  Trae embebido [Twitter bootstrap 3.3] (http://getbootstrap.com/). Esta construido basado en metodologías de distintos Framework php y usa algunos ejemplos opensource editados, 
 buscamos una fácil instalación un código claro y limpio en español, basado en el modelo MVC bajo el paradigma orientado a objetos.
